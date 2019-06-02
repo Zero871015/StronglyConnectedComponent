@@ -1,0 +1,17 @@
+1.
+input:
+9;a,c;b,a;c,b;c,d;d,c;e,b;e,f;f,e;f,c;g,e;g,f;g,i;h,f;h,g;i,h
+output:
+a,b,c,d;e,f;g,h,i
+
+2.
+input:
+13;a,d;g,a;d,g;j,g;g,j;g,l;d,i;c,i;i,l;c,l;c,c;l,h;h,c;l,e;e,m;m,e;b,m;e,b;e,f;b,f;k,b
+output:
+a,d,g,j;b,e,m;c,h,i,l;f;k
+
+3.
+input:
+14;a,j;b,b;b,d;b,h;c,c;c,d;c,g;d,a;d,i;d,j;e,g;f,h;f,m;h,f;h,m;j,n;k,e;k,j;k,l;l,c;l,d;l,g;m,f;m,h;n,b
+output:
+a,b,d,j,n;c;e;f,h,m;g;i;k;l
