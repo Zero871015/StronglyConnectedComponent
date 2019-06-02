@@ -10,6 +10,13 @@
 2. Get Transpose(G).
 3. Use DFS on G, order by finish we get from 1.
 
+## IO Format
+
+* Input: Nodenumber;edge;edge;……
+ every edge: PointA,PointB
+* Output: node,node,….;node;node,node,….;node;……
+ each SCC separated by ';'
+
 ## Contact
 * If there is any bug or question, you can use email contact me:
   * zero871015@gmail.com
